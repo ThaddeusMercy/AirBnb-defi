@@ -1632,7 +1632,7 @@ body {
 
 footer {
   position: relative;
-  background: linear-gradient(180deg, #0A090E 0%, #1E1B26 100%);
+  background: linear-gradient(30deg, #495057 0%, #1E1B26 100%)
   padding: 60px 0 0 0;
 }
 @media (max-width: 992px) {
